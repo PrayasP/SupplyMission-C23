@@ -23,7 +23,7 @@ function setup() {
  //Creating a package sprite and adding an image to it 
 	packageSprite=createSprite(width/2, 80, 10,10);
 	packageSprite.addImage(packageIMG)
-	packageSprite.scale=0.2
+	packageSprite.scale=0.1;
 
  //Creating a helicopter sprite and adding an image to it 
 	helicopterSprite=createSprite(width/2, 200, 10,10);
